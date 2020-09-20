@@ -1,10 +1,10 @@
-#Machine-Learning-Lab
+## Machine-Learning-Lab
 
 One of the Lab from 7th Sem,
 
 Used Jupyter Notebook,
 
-List of Programs :-
+**List of Programs :-**
 
 1. FIND-S Algorithm
 2. Candidate-Elimination algorithm

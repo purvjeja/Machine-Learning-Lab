@@ -1,6 +1,6 @@
 ## Machine-Learning-Lab
 
-One of the Lab from 7th Sem
+One of the Lab of my 7th Semester
 
 Used Jupyter Notebook
 

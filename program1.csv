@@ -1,4 +1,12 @@
-Sunny, Warm, Normal, Strong, Warm, Same, Y
-Sunny, Warm, High, Strong, Warm, Same, Y
-Rainy, Cold, High, Strong, Warm, Change, N
-Sunny, Warm, High, Strong, Cool, Change, Y
+Sunny,Warm,Normal,Strong,Warm,Same,Y
+Sunny,Warm,High,Strong,Warm,Same,Y
+Rainy,Cold,High,Strong,Warm,Change,N
+Sunny,Warm,High,Strong,Cool,Change,Y
+Sunny,Warm,Normal,Strong,Warm,Same,Y
+Sunny,Warm,High,Strong,Warm,Same,Y
+Rainy,Cold,High,Strong,Warm,Change,N
+Rainy,Warm,High,Strong,Cool,Change,Y
+Sunny,Warm,Normal,Strong,Warm,Same,Y
+Sunny,Warm,High,Light,Warm,Same,Y
+Rainy,Cold,High,Strong,Warm,Change,N
+Sunny,Warm,High,Strong,Cool,Change,Y

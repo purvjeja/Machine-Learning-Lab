@@ -1,8 +1,8 @@
 ## Machine-Learning-Lab
 
-One of the Lab from 7th Sem,
+One of the Lab from 7th Sem
 
-Used Jupyter Notebook,
+Used Jupyter Notebook
 
 **List of Programs :-**
 

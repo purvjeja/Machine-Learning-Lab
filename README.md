@@ -16,3 +16,7 @@ Used Jupyter Notebook
 8. EM algorithm
 9. k-Nearest Neighbour algorithm
 10. non-parametric Locally Weighted Regression algorithm
+
+# NOTE
+
+if errors regarding "nomodulefound<module-name>" then go to command prompt/terminal, then open python/anaconda enviorment and install module using 'pip install <module-name>'  
